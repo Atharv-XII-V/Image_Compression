@@ -1,1 +1,3 @@
-# Image_Compression
+streamlit
+numpy
+matplotlib
