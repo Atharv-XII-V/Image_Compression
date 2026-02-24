@@ -1,0 +1,6 @@
+# Image Compression 
+
+# Imports needed for our 
+streamlit
+numpy
+matplotlib
